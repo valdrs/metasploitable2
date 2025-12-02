@@ -13,7 +13,7 @@ The assessment simulates a real-world offensive security engagement, covering re
 
 ---
 
-## 📍 Project Summary
+##  Project Summary
 
 | Attribute | Details |
 |----------|---------|
@@ -25,7 +25,7 @@ The assessment simulates a real-world offensive security engagement, covering re
 
 ---
 
-## 🧭 Methodology
+##  Methodology
 
 This engagement followed a structured penetration testing lifecycle:
 
@@ -44,21 +44,21 @@ Reconnaissance → Enumeration → Vulnerability Mapping → Exploitation → Do
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
-| ID | Vulnerability | Severity | Exploited |
-|----|--------------|----------|-----------|
-| F-03 | vsftpd 2.3.4 Backdoor RCE | **Critical** | ✅ |
-| F-05 | SQL Injection in DVWA | High | ✅ |
-| F-06 & F-07 | Reflected + Stored XSS | High | ✅ |
-| F-02 | Exposed administrative panels | High | ⚠️ Observed |
-| F-04 | SMB Information Disclosure | Medium | ⚠️ Observed |
+| ID | Vulnerability | Severity | 
+|----|--------------|----------|
+| F-03 | vsftpd 2.3.4 Backdoor RCE | **Critical** | 
+| F-05 | SQL Injection in DVWA | High | 
+| F-06 & F-07 | Reflected + Stored XSS | High | 
+| F-02 | Exposed administrative panels | High | 
+| F-04 | SMB Information Disclosure | Medium | 
 
-📁 Full details available in the `/docs/` report.
+ Full details available in the `/docs/` report.
 
 ---
 
-## 📄 Documentation & Evidence
+##  Documentation & Evidence
 
 | Folder | Contents |
 |--------|----------|
@@ -75,7 +75,7 @@ Example screenshots include:
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Penetration testing methodology
 - Vulnerability exploitation and validation
@@ -86,7 +86,7 @@ Example screenshots include:
 
 ---
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 This engagement reinforced:
 
@@ -97,7 +97,7 @@ This engagement reinforced:
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `Cybersecurity` `Penetration-Testing` `Red-Team` `Metasploit`  
 `sqlmap` `XSS` `SQLi` `Enum` `Network-Security`  
