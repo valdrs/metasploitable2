@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Scope](https://img.shields.io/badge/Assessment-Lab_Environment-blue)
 ![Category](https://img.shields.io/badge/Focus-Offensive_Security-red)
-![Report](https://img.shields.io/badge/Output-Professional_Report-black)
 
 This repository contains a structured penetration test performed against the intentionally vulnerable **Metasploitable2** machine.  
 The assessment simulates a real-world offensive security engagement, covering reconnaissance, enumeration, exploitation, documentation, and reporting.
@@ -94,13 +93,5 @@ This engagement reinforced:
 - Hands-on exploitation workflow
 - Practical application of OWASP & PTES methodologies
 - Clear technical reporting and documentation
-
----
-
-##  Tags
-
-`Cybersecurity` `Penetration-Testing` `Red-Team` `Metasploit`  
-`sqlmap` `XSS` `SQLi` `Enum` `Network-Security`  
-`OWASP` `Linux` `Ethical-Hacking` `Metasploitable2`
 
 ---
